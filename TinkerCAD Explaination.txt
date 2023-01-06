@@ -1,0 +1,9 @@
+My explainations for the TinkerCAD process is as follows:
+
+The two push buttons are fairly simple, just taking the binary input from the button into the digital pins
+
+My tilt sensor is fairly simple too, just taking in the analog input from the sensor and sending it to an analog pin on the arduino
+
+For the vibration motor, I am simply using the digital pin from the arduino to power the sensor (whenever that may trigger in game)
+
+I currently have it set up where it vibrates whenever you press the A button, but that is only for testing, the real input would come from the game controlling the arduino

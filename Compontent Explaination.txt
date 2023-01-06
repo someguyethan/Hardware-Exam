@@ -1,0 +1,9 @@
+My explaination for the components used are as follows:
+
+The tilt sensor allows for the left-right movement for Mario (no need for D-pad since there is no up/down movement
+
+Push buttons for A/B; one for jumping, the other for sprinting
+
+Lastly, I added a vibration motor to vibrate the controller when Mario dies, wins, destroys a barrel, or whichever event would require any vibrations to increase immersion
+
+
