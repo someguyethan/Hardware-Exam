@@ -1,0 +1,5 @@
+Assembly Explaination
+
+For my assembly I tried to keep it simple; one single shell split in half for easy assembly/disassembly and two button caps to put on the push button components
+
+the shell is hollowed out to fit the components such as the arduino, push buttons, as well as my tilt sensor and vibration motor, which were given placeholders for their position
