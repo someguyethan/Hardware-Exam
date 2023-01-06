@@ -7,3 +7,5 @@ My tilt sensor is fairly simple too, just taking in the analog input from the se
 For the vibration motor, I am simply using the digital pin from the arduino to power the sensor (whenever that may trigger in game)
 
 I currently have it set up where it vibrates whenever you press the A button, but that is only for testing, the real input would come from the game controlling the arduino
+
+https://www.tinkercad.com/things/gMZUvZJ4QW5-ingenious-jarv-amberis/editel?sharecode=Wxxn6o482chDps0-5yCZcSUqmsFiLz9w-aoBJubEqms

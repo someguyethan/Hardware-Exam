@@ -1,0 +1,5 @@
+Controller Explaination
+
+For my controller I designed it with an ergonomic design in mind, with curved edges with the central handle to hold while the thumbs are both in reach of both buttons
+
+The design is based off a Mario mushroom, with the stem and the cap; the stem being the handle, and the cap containing the buttons and arduino
